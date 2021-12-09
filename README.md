@@ -1,1 +1,1 @@
-# edu-lab4-comparch
+# Computer Architecture Lab #4
